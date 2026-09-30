@@ -1,7 +1,7 @@
-age = int(input("Enter your current age: "))
-age_5 = age + 5 
-age_10 = age + 10 
-age_20 = age + 20
-print("Age after 5 years:", age_5) 
-print("Age after 10 years:", age_10) 
-print("Age after 20 years:", age_20)
+mark1 = float(input("Enter marks in Subject 1: "))
+mark2 = float(input("Enter marks in Subject 2: "))
+mark3 = float(input("Enter marks in Subject 3: "))
+total = mark1 + mark2 + mark3
+average = total / 3 
+print("Total marks:", total)
+print("Average marks:", average)
