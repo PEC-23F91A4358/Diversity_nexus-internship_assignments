@@ -1,0 +1,8 @@
+customer_id,name,age,city,purchase_amount
+101,Ravi,25,Nellore,2000
+102,Priya,30,Chennai,3500
+103,,28,Hyderabad,1500
+103,,28,Hyderabad,1500
+104,Arjun,unknown,Nellore,2500
+105,Sneha,150,,999999
+106,Kiran,35,Chennai,4000

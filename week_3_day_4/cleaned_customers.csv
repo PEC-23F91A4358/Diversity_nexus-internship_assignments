@@ -1,0 +1,7 @@
+customer_id,name,age,purchase_amount,city_Chennai,city_Hyderabad,city_Nellore,city_Unknown
+101,Ravi,25.0,2000,0,0,1,0
+102,Priya,30.0,3500,1,0,0,0
+103,Unknown,28.0,1500,0,1,0,0
+104,Arjun,30.0,2500,0,0,1,0
+105,Sneha,150.0,999999,0,0,0,1
+106,Kiran,35.0,4000,1,0,0,0

@@ -1,0 +1,4 @@
+Metric,Before cleaning,After cleaning
+Total rows,7,6
+Duplicate rows,1,0
+Missing values,3,0
